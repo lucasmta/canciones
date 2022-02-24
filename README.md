@@ -1,5 +1,5 @@
 <h1 align="center">
-<video src="https://github.com/lucasmta/canciones/blob/main/21402281cc3d3bf54ff869fe59932175.mp4?raw=true" alt="Banner" width="640" height="480"</video>
+<video src="https://github.com/lucasmta/canciones/blob/main/21402281cc3d3bf54ff869fe59932175.mp4?raw=true" width="640" height="480"</video>
   <br>
   Canciones
   <br>
