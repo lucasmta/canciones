@@ -9,5 +9,10 @@
 
 <p>
   <a href="https://gyazo.com/21402281cc3d3bf54ff869fe59932175">Tutorial de como copiar el link de la cancion</a>
+</p>
+
+## REDES
+
+<p>
   <a href="https://www.instagram.com/lucas.emetea/">IG PARA PASARME EL NOMBRE DE LAS CANCIONES QUE QUIERAN</a>
 </p>
